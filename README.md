@@ -17,7 +17,7 @@ $ npm i
 Install the front-end dependencies, by openning your terminal in the `frontend folder` and executing the following command
 
 ```bash
-$ npm start
+$ npm i
 ```
 
 ---
